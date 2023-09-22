@@ -15,4 +15,4 @@ wget -q https://github.com/JoakimTheCoder/AJTermux/raw/main/proxy
 sleep 1
 echo -e "${GREEN}AJProxy is now Installed.${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
-chmod +x proxy
+chmod +x ./proxy
